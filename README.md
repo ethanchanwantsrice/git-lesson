@@ -19,3 +19,6 @@ Features shold be developed on branches. To create and switch to a branch, use t
 To switch to an existing branch, use
 
 `git switch branch_name`
+
+To submit your feature to be incorporated to the main branch, you should submit a `Pull Request`.
+The repository maintiners will review your pull request before accepting your changes.
